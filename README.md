@@ -1,1 +1,1 @@
-# SECOM_supervised_ML_project
+# My Machine Learning Projects
